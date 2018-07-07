@@ -1,0 +1,2468 @@
+
+allAtlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background/green
+  rotate: false
+  xy: 2, 404
+  size: 1920, 1344
+  orig: 1920, 1344
+  offset: 0, 0
+  index: -1
+background/skin
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+allAtlas2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/example board with pieces
+  rotate: false
+  xy: 2, 219
+  size: 640, 646
+  orig: 640, 646
+  offset: 0, 0
+  index: -1
+chess/example pieces only
+  rotate: false
+  xy: 2, 2
+  size: 664, 215
+  orig: 664, 215
+  offset: 0, 0
+  index: -1
+
+allAtlas3.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/1024h/b_bishop_png_1024px
+  rotate: false
+  xy: 2155, 2054
+  size: 1015, 1024
+  orig: 1015, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/b_king_png_1024px
+  rotate: false
+  xy: 1028, 2
+  size: 1015, 1024
+  orig: 1015, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/b_knight_png_1024px
+  rotate: false
+  xy: 3172, 2054
+  size: 915, 1024
+  orig: 915, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/b_queen_png_1024px
+  rotate: false
+  xy: 2, 2054
+  size: 1125, 1024
+  orig: 1125, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/b_rook_png_1024px
+  rotate: false
+  xy: 3071, 1028
+  size: 926, 1024
+  orig: 926, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/square brown dark_png_1024px
+  rotate: false
+  xy: 2, 1028
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/square brown light_png_1024px
+  rotate: false
+  xy: 1129, 2054
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/square gray dark _png_1024px
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/square gray light _png_1024px
+  rotate: false
+  xy: 1028, 1028
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/w_bishop_png_1024px
+  rotate: false
+  xy: 2054, 1028
+  size: 1015, 1024
+  orig: 1015, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/w_king_png_1024px
+  rotate: false
+  xy: 2045, 2
+  size: 1015, 1024
+  orig: 1015, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/w_rook_png_1024px
+  rotate: false
+  xy: 3062, 2
+  size: 926, 1024
+  orig: 926, 1024
+  offset: 0, 0
+  index: -1
+
+allAtlas4.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/1024h/b_pawn_png_1024px
+  rotate: false
+  xy: 919, 2
+  size: 833, 1024
+  orig: 833, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/w_knight_png_1024px
+  rotate: false
+  xy: 2, 2
+  size: 915, 1024
+  orig: 915, 1024
+  offset: 0, 0
+  index: -1
+chess/noshadow/1024h/w_pawn_png_1024px
+  rotate: false
+  xy: 1754, 2
+  size: 833, 1024
+  orig: 833, 1024
+  offset: 0, 0
+  index: -1
+
+allAtlas5.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/128h/b_bishop_png_128px
+  rotate: false
+  xy: 808, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/b_king_png_128px
+  rotate: false
+  xy: 937, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/b_knight_png_128px
+  rotate: false
+  xy: 1560, 2
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/b_pawn_png_128px
+  rotate: false
+  xy: 1794, 2
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/b_queen_png_128px
+  rotate: false
+  xy: 2, 2
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/b_rook_png_128px
+  rotate: false
+  xy: 1324, 2
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/square brown dark_png_128px
+  rotate: false
+  xy: 288, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/square brown light_png_128px
+  rotate: false
+  xy: 418, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/square gray dark _png_128px
+  rotate: false
+  xy: 548, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/square gray light _png_128px
+  rotate: false
+  xy: 678, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_bishop_png_128px
+  rotate: false
+  xy: 1066, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_king_png_128px
+  rotate: false
+  xy: 1195, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_knight_png_128px
+  rotate: false
+  xy: 1677, 2
+  size: 115, 128
+  orig: 115, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_pawn_png_128px
+  rotate: false
+  xy: 1901, 2
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_queen_png_128px
+  rotate: false
+  xy: 145, 2
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1
+chess/noshadow/128h/w_rook_png_128px
+  rotate: false
+  xy: 1442, 2
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+
+allAtlas6.png
+size: 4096,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/1x/b_bishop_1x_ns
+  rotate: false
+  xy: 2044, 542
+  size: 360, 364
+  orig: 360, 364
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/b_knight_1x_ns
+  rotate: false
+  xy: 2406, 558
+  size: 310, 348
+  orig: 310, 348
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/b_pawn_1x_ns
+  rotate: false
+  xy: 1293, 222
+  size: 238, 293
+  orig: 238, 293
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/b_queen_1x_ns
+  rotate: false
+  xy: 908, 166
+  size: 383, 349
+  orig: 383, 349
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/b_rook_1x_ns
+  rotate: false
+  xy: 3030, 576
+  size: 298, 330
+  orig: 298, 330
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/square brown dark_1x_ns
+  rotate: false
+  xy: 2, 455
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/square brown light_1x_ns
+  rotate: false
+  xy: 2, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/square gray dark _1x_ns
+  rotate: false
+  xy: 455, 455
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/square gray light _1x_ns
+  rotate: false
+  xy: 455, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_bishop_1x_ns
+  rotate: false
+  xy: 1681, 542
+  size: 361, 364
+  orig: 361, 364
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_king_1x_ns
+  rotate: false
+  xy: 908, 517
+  size: 386, 389
+  orig: 386, 389
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_knight_1x_ns
+  rotate: false
+  xy: 2718, 558
+  size: 310, 348
+  orig: 310, 348
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_pawn_1x_ns
+  rotate: false
+  xy: 3630, 613
+  size: 239, 293
+  orig: 239, 293
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_queen_1x_ns
+  rotate: false
+  xy: 1296, 558
+  size: 383, 348
+  orig: 383, 348
+  offset: 0, 0
+  index: -1
+chess/noshadow/1x/w_rook_1x_ns
+  rotate: false
+  xy: 3330, 577
+  size: 298, 329
+  orig: 298, 329
+  offset: 0, 0
+  index: -1
+
+allAtlas7.png
+size: 4096,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/256h/b_bishop_png_256px
+  rotate: false
+  xy: 1600, 2
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/b_king_png_256px
+  rotate: false
+  xy: 1856, 2
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/b_knight_png_256px
+  rotate: false
+  xy: 3092, 2
+  size: 229, 256
+  orig: 229, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/b_pawn_png_256px
+  rotate: false
+  xy: 3554, 2
+  size: 209, 256
+  orig: 209, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/b_queen_png_256px
+  rotate: false
+  xy: 2, 2
+  size: 281, 256
+  orig: 281, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/b_rook_png_256px
+  rotate: false
+  xy: 2624, 2
+  size: 232, 256
+  orig: 232, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/square brown dark_png_256px
+  rotate: false
+  xy: 568, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/square brown light_png_256px
+  rotate: false
+  xy: 826, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/square gray dark _png_256px
+  rotate: false
+  xy: 1084, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/square gray light _png_256px
+  rotate: false
+  xy: 1342, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_bishop_png_256px
+  rotate: false
+  xy: 2112, 2
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_king_png_256px
+  rotate: false
+  xy: 2368, 2
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_knight_png_256px
+  rotate: false
+  xy: 3323, 2
+  size: 229, 256
+  orig: 229, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_pawn_png_256px
+  rotate: false
+  xy: 3765, 2
+  size: 209, 256
+  orig: 209, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_queen_png_256px
+  rotate: false
+  xy: 285, 2
+  size: 281, 256
+  orig: 281, 256
+  offset: 0, 0
+  index: -1
+chess/noshadow/256h/w_rook_png_256px
+  rotate: false
+  xy: 2858, 2
+  size: 232, 256
+  orig: 232, 256
+  offset: 0, 0
+  index: -1
+
+allAtlas8.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/2x/b_bishop_2x_ns
+  rotate: false
+  xy: 3304, 3340
+  size: 720, 727
+  orig: 720, 727
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/b_king_2x_ns
+  rotate: false
+  xy: 905, 2386
+  size: 770, 778
+  orig: 770, 778
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/b_knight_2x_ns
+  rotate: false
+  xy: 905, 991
+  size: 620, 695
+  orig: 620, 695
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/b_pawn_2x_ns
+  rotate: false
+  xy: 1195, 404
+  size: 476, 585
+  orig: 476, 585
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/b_queen_2x_ns
+  rotate: false
+  xy: 2, 662
+  size: 765, 696
+  orig: 765, 696
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/b_rook_2x_ns
+  rotate: false
+  xy: 599, 2
+  size: 594, 658
+  orig: 594, 658
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/square brown dark_2x_ns
+  rotate: false
+  xy: 2, 3166
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/square brown light_2x_ns
+  rotate: false
+  xy: 2, 2263
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/square gray dark _2x_ns
+  rotate: false
+  xy: 905, 3166
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/square gray light _2x_ns
+  rotate: false
+  xy: 2, 1360
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_bishop_2x_ns
+  rotate: false
+  xy: 2581, 3339
+  size: 721, 728
+  orig: 721, 728
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_king_2x_ns
+  rotate: false
+  xy: 1808, 3290
+  size: 771, 777
+  orig: 771, 777
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_knight_2x_ns
+  rotate: false
+  xy: 1527, 991
+  size: 620, 695
+  orig: 620, 695
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_pawn_2x_ns
+  rotate: false
+  xy: 1673, 404
+  size: 476, 585
+  orig: 476, 585
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_queen_2x_ns
+  rotate: false
+  xy: 905, 1688
+  size: 764, 696
+  orig: 764, 696
+  offset: 0, 0
+  index: -1
+chess/noshadow/2x/w_rook_2x_ns
+  rotate: false
+  xy: 2, 2
+  size: 595, 658
+  orig: 595, 658
+  offset: 0, 0
+  index: -1
+
+allAtlas9.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/noshadow/512h/b_bishop_png_512px
+  rotate: false
+  xy: 516, 2
+  size: 508, 512
+  orig: 508, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/b_king_png_512px
+  rotate: false
+  xy: 1081, 516
+  size: 508, 512
+  orig: 508, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/b_knight_png_512px
+  rotate: false
+  xy: 1536, 2
+  size: 458, 512
+  orig: 458, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/b_pawn_png_512px
+  rotate: false
+  xy: 2570, 1030
+  size: 417, 512
+  orig: 417, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/b_queen_png_512px
+  rotate: false
+  xy: 2, 1030
+  size: 563, 512
+  orig: 563, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/b_rook_png_512px
+  rotate: false
+  xy: 1591, 516
+  size: 463, 512
+  orig: 463, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/square brown dark_png_512px
+  rotate: false
+  xy: 567, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/square brown light_png_512px
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/square gray dark _png_512px
+  rotate: false
+  xy: 567, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/square gray light _png_512px
+  rotate: false
+  xy: 1081, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_bishop_png_512px
+  rotate: false
+  xy: 1595, 1030
+  size: 508, 512
+  orig: 508, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_king_png_512px
+  rotate: false
+  xy: 1026, 2
+  size: 508, 512
+  orig: 508, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_knight_png_512px
+  rotate: false
+  xy: 2056, 516
+  size: 458, 512
+  orig: 458, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_pawn_png_512px
+  rotate: false
+  xy: 1996, 2
+  size: 417, 512
+  orig: 417, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_queen_png_512px
+  rotate: false
+  xy: 2, 516
+  size: 563, 512
+  orig: 563, 512
+  offset: 0, 0
+  index: -1
+chess/noshadow/512h/w_rook_png_512px
+  rotate: false
+  xy: 2105, 1030
+  size: 463, 512
+  orig: 463, 512
+  offset: 0, 0
+  index: -1
+
+allAtlas10.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/1024px/b_king_png_shadow_1024px
+  rotate: false
+  xy: 1028, 2
+  size: 1017, 1024
+  orig: 1017, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/b_knight_png_shadow_1024px
+  rotate: false
+  xy: 3160, 1028
+  size: 928, 1024
+  orig: 928, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/b_queen_png_shadow_1024px
+  rotate: false
+  xy: 2, 1028
+  size: 1111, 1024
+  orig: 1111, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/square brown dark_png_shadow_1024px
+  rotate: false
+  xy: 1118, 2054
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/square brown light_png_shadow_1024px
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/square gray dark _png_shadow_1024px
+  rotate: false
+  xy: 1115, 1028
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/square gray light _png_shadow_1024px
+  rotate: false
+  xy: 2144, 2054
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_bishop_png_shadow_1024px
+  rotate: false
+  xy: 2141, 1028
+  size: 1017, 1024
+  orig: 1017, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_king_png_shadow_1024px
+  rotate: false
+  xy: 2047, 2
+  size: 1017, 1024
+  orig: 1017, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_pawn_png_shadow_1024px
+  rotate: false
+  xy: 3170, 2054
+  size: 865, 1024
+  orig: 865, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_queen_png_shadow_1024px
+  rotate: false
+  xy: 2, 2054
+  size: 1114, 1024
+  orig: 1114, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_rook_png_shadow_1024px
+  rotate: false
+  xy: 3066, 2
+  size: 942, 1024
+  orig: 942, 1024
+  offset: 0, 0
+  index: -1
+
+allAtlas11.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/1024px/b_pawn_png_shadow_1024px
+  rotate: false
+  xy: 1873, 2
+  size: 862, 1024
+  orig: 862, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/b_rook_png_shadow_1024px
+  rotate: false
+  xy: 2, 2
+  size: 939, 1024
+  orig: 939, 1024
+  offset: 0, 0
+  index: -1
+chess/shadow/1024px/w_knight_png_shadow_1024px
+  rotate: false
+  xy: 943, 2
+  size: 928, 1024
+  orig: 928, 1024
+  offset: 0, 0
+  index: -1
+
+allAtlas12.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/128px/b_bishop_png_shadow_128px
+  rotate: false
+  xy: 1065, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/b_king_png_shadow_128px
+  rotate: false
+  xy: 285, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/b_knight_png_shadow_128px
+  rotate: false
+  xy: 1563, 2
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/b_pawn_png_shadow_128px
+  rotate: false
+  xy: 1799, 2
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/b_queen_png_shadow_128px
+  rotate: false
+  xy: 144, 2
+  size: 139, 128
+  orig: 139, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/b_rook_png_shadow_128px
+  rotate: false
+  xy: 1323, 2
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/square brown dark_png_shadow_128px
+  rotate: false
+  xy: 415, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/square brown light_png_shadow_128px
+  rotate: false
+  xy: 545, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/square gray dark _png_shadow_128px
+  rotate: false
+  xy: 675, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/square gray light _png_shadow_128px
+  rotate: false
+  xy: 805, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_bishop_png_shadow_128px
+  rotate: false
+  xy: 1194, 2
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_king_png_shadow_128px
+  rotate: false
+  xy: 935, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_knight_png_shadow_128px
+  rotate: false
+  xy: 1681, 2
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_pawn_png_shadow_128px
+  rotate: false
+  xy: 1909, 2
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_queen_png_shadow_128px
+  rotate: false
+  xy: 2, 2
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+chess/shadow/128px/w_rook_png_shadow_128px
+  rotate: false
+  xy: 1443, 2
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+
+allAtlas13.png
+size: 4096,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/1x/b_bishop_1x
+  rotate: false
+  xy: 2206, 488
+  size: 414, 418
+  orig: 414, 418
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/b_king_1x
+  rotate: false
+  xy: 908, 463
+  size: 440, 443
+  orig: 440, 443
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/b_knight_1x
+  rotate: false
+  xy: 2622, 504
+  size: 364, 402
+  orig: 364, 402
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/b_pawn_1x
+  rotate: false
+  xy: 3708, 559
+  size: 292, 347
+  orig: 292, 347
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/b_queen_1x
+  rotate: false
+  xy: 1350, 503
+  size: 437, 403
+  orig: 437, 403
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/b_rook_1x
+  rotate: false
+  xy: 1789, 102
+  size: 352, 384
+  orig: 352, 384
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/square brown dark_1x
+  rotate: false
+  xy: 2, 455
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/square brown light_1x
+  rotate: false
+  xy: 2, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/square gray dark _1x
+  rotate: false
+  xy: 455, 455
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/square gray light _1x
+  rotate: false
+  xy: 455, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_bishop_1x
+  rotate: false
+  xy: 1789, 488
+  size: 415, 418
+  orig: 415, 418
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_king_1x
+  rotate: false
+  xy: 908, 18
+  size: 440, 443
+  orig: 440, 443
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_knight_1x
+  rotate: false
+  xy: 2988, 504
+  size: 364, 402
+  orig: 364, 402
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_pawn_1x
+  rotate: false
+  xy: 2143, 139
+  size: 293, 347
+  orig: 293, 347
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_queen_1x
+  rotate: false
+  xy: 1350, 99
+  size: 437, 402
+  orig: 437, 402
+  offset: 0, 0
+  index: -1
+chess/shadow/1x/w_rook_1x
+  rotate: false
+  xy: 3354, 523
+  size: 352, 383
+  orig: 352, 383
+  offset: 0, 0
+  index: -1
+
+allAtlas14.png
+size: 4096,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/256px/bBishop
+  rotate: false
+  xy: 2366, 2
+  size: 254, 256
+  orig: 254, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/bKing
+  rotate: false
+  xy: 1595, 2
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/bKnight
+  rotate: false
+  xy: 3097, 2
+  size: 232, 256
+  orig: 232, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/bPawn
+  rotate: false
+  xy: 3784, 2
+  size: 216, 256
+  orig: 216, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/bQueen
+  rotate: false
+  xy: 283, 2
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/bRook
+  rotate: false
+  xy: 2860, 2
+  size: 235, 256
+  orig: 235, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/sqBrownDark
+  rotate: false
+  xy: 563, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/sqBrownLight
+  rotate: false
+  xy: 821, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/sqGreyDark
+  rotate: false
+  xy: 1079, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/sqGreyLight
+  rotate: false
+  xy: 1337, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wBishop
+  rotate: false
+  xy: 1852, 2
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wKing
+  rotate: false
+  xy: 2109, 2
+  size: 255, 256
+  orig: 255, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wKnight
+  rotate: false
+  xy: 3331, 2
+  size: 232, 256
+  orig: 232, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wPawn
+  rotate: false
+  xy: 3565, 2
+  size: 217, 256
+  orig: 217, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wQueen
+  rotate: false
+  xy: 2, 2
+  size: 279, 256
+  orig: 279, 256
+  offset: 0, 0
+  index: -1
+chess/shadow/256px/wRook
+  rotate: false
+  xy: 2622, 2
+  size: 236, 256
+  orig: 236, 256
+  offset: 0, 0
+  index: -1
+
+allAtlas15.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/2x/b_bishop_2x
+  rotate: false
+  xy: 905, 84
+  size: 828, 836
+  orig: 828, 836
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/b_king_2x
+  rotate: false
+  xy: 905, 1728
+  size: 880, 886
+  orig: 880, 886
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/b_knight_2x
+  rotate: false
+  xy: 1735, 116
+  size: 728, 804
+  orig: 728, 804
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/b_pawn_2x
+  rotate: false
+  xy: 2493, 1935
+  size: 584, 694
+  orig: 584, 694
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/b_queen_2x
+  rotate: false
+  xy: 2, 2
+  size: 874, 806
+  orig: 874, 806
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/b_rook_2x
+  rotate: false
+  xy: 2465, 152
+  size: 704, 768
+  orig: 704, 768
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/square brown dark_2x
+  rotate: false
+  xy: 2, 2616
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/square brown light_2x
+  rotate: false
+  xy: 2, 1713
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/square gray dark _2x
+  rotate: false
+  xy: 905, 2616
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/square gray light _2x
+  rotate: false
+  xy: 2, 810
+  size: 901, 901
+  orig: 901, 901
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_bishop_2x
+  rotate: false
+  xy: 2690, 2681
+  size: 830, 836
+  orig: 830, 836
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_king_2x
+  rotate: false
+  xy: 1808, 2631
+  size: 880, 886
+  orig: 880, 886
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_knight_2x
+  rotate: false
+  xy: 1781, 922
+  size: 728, 804
+  orig: 728, 804
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_pawn_2x
+  rotate: false
+  xy: 3079, 1985
+  size: 586, 694
+  orig: 586, 694
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_queen_2x
+  rotate: false
+  xy: 905, 922
+  size: 874, 804
+  orig: 874, 804
+  offset: 0, 0
+  index: -1
+chess/shadow/2x/w_rook_2x
+  rotate: false
+  xy: 1787, 1848
+  size: 704, 766
+  orig: 704, 766
+  offset: 0, 0
+  index: -1
+
+allAtlas16.png
+size: 4096,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess/shadow/512px/b_bishop_png_shadow_512px
+  rotate: false
+  xy: 1027, 2
+  size: 508, 512
+  orig: 508, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/b_king_png_shadow_512px
+  rotate: false
+  xy: 516, 2
+  size: 509, 512
+  orig: 509, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/b_pawn_png_shadow_512px
+  rotate: false
+  xy: 2572, 1030
+  size: 431, 512
+  orig: 431, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/b_queen_png_shadow_512px
+  rotate: false
+  xy: 2, 516
+  size: 556, 512
+  orig: 556, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/b_rook_png_shadow_512px
+  rotate: false
+  xy: 2100, 1030
+  size: 470, 512
+  orig: 470, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/square brown dark_png_shadow_512px
+  rotate: false
+  xy: 561, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/square brown light_png_shadow_512px
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/square gray dark _png_shadow_512px
+  rotate: false
+  xy: 560, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/square gray light _png_shadow_512px
+  rotate: false
+  xy: 1075, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_bishop_png_shadow_512px
+  rotate: false
+  xy: 1074, 516
+  size: 509, 512
+  orig: 509, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_king_png_shadow_512px
+  rotate: false
+  xy: 1589, 1030
+  size: 509, 512
+  orig: 509, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_knight_png_shadow_512px
+  rotate: false
+  xy: 1537, 2
+  size: 464, 512
+  orig: 464, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_pawn_png_shadow_512px
+  rotate: false
+  xy: 2058, 516
+  size: 433, 512
+  orig: 433, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_queen_png_shadow_512px
+  rotate: false
+  xy: 2, 1030
+  size: 557, 512
+  orig: 557, 512
+  offset: 0, 0
+  index: -1
+chess/shadow/512px/w_rook_png_shadow_512px
+  rotate: false
+  xy: 1585, 516
+  size: 471, 512
+  orig: 471, 512
+  offset: 0, 0
+  index: -1
+
+allAtlas17.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/blue_boxCheckmark
+  rotate: false
+  xy: 2770, 192
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/blue_boxCross
+  rotate: false
+  xy: 2810, 192
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/blue_boxTick
+  rotate: false
+  xy: 2811, 154
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/blue_button00
+  rotate: false
+  xy: 199, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button01
+  rotate: false
+  xy: 2, 5
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button02
+  rotate: false
+  xy: 2, 103
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button03
+  rotate: false
+  xy: 770, 56
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button04
+  rotate: false
+  xy: 195, 154
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button05
+  rotate: false
+  xy: 962, 107
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button06
+  rotate: false
+  xy: 3403, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button07
+  rotate: false
+  xy: 3403, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button08
+  rotate: false
+  xy: 3913, 209
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button09
+  rotate: false
+  xy: 3454, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button10
+  rotate: false
+  xy: 3913, 162
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button11
+  rotate: false
+  xy: 3454, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/blue_button12
+  rotate: false
+  xy: 3964, 209
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/blue_button13
+  rotate: false
+  xy: 391, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/blue_checkmark
+  rotate: false
+  xy: 2287, 187
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/blue_circle
+  rotate: false
+  xy: 2849, 148
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/blue_cross
+  rotate: false
+  xy: 1154, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/blue_panel
+  rotate: false
+  xy: 2887, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/blue_sliderDown
+  rotate: false
+  xy: 4066, 212
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/blue_sliderLeft
+  rotate: false
+  xy: 2770, 159
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/blue_sliderRight
+  rotate: false
+  xy: 3913, 129
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/blue_sliderUp
+  rotate: false
+  xy: 4066, 168
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/blue_tick
+  rotate: false
+  xy: 1227, 117
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/dropdownBottom
+  rotate: false
+  xy: 2311, 230
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/dropdownMid
+  rotate: false
+  xy: 2503, 230
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/dropdownTop
+  rotate: false
+  xy: 2695, 230
+  size: 190, 24
+  orig: 190, 24
+  offset: 0, 0
+  index: -1
+ui/green_boxCheckmark
+  rotate: false
+  xy: 1377, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/green_boxCross
+  rotate: false
+  xy: 1417, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/green_boxTick
+  rotate: false
+  xy: 1737, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/green_button00
+  rotate: false
+  xy: 2, 52
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/green_button01
+  rotate: false
+  xy: 1155, 158
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/green_button02
+  rotate: false
+  xy: 194, 103
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/green_button03
+  rotate: false
+  xy: 1351, 209
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/green_button04
+  rotate: false
+  xy: 387, 154
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/green_button05
+  rotate: false
+  xy: 194, 5
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/green_button06
+  rotate: false
+  xy: 3505, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/green_button07
+  rotate: false
+  xy: 3505, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/green_button08
+  rotate: false
+  xy: 3964, 162
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/green_button09
+  rotate: false
+  xy: 3556, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/green_button10
+  rotate: false
+  xy: 4015, 209
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/green_button11
+  rotate: false
+  xy: 3556, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/green_button12
+  rotate: false
+  xy: 4015, 162
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/green_button13
+  rotate: false
+  xy: 583, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/green_checkmark
+  rotate: false
+  xy: 1184, 136
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/green_circle
+  rotate: false
+  xy: 1775, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/green_cross
+  rotate: false
+  xy: 1174, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/green_panel
+  rotate: false
+  xy: 2989, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/green_sliderDown
+  rotate: false
+  xy: 4066, 124
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/green_sliderLeft
+  rotate: false
+  xy: 3954, 129
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/green_sliderRight
+  rotate: false
+  xy: 3995, 129
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/green_sliderUp
+  rotate: false
+  xy: 2850, 186
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/green_tick
+  rotate: false
+  xy: 1273, 139
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/grey_arrowDownGrey
+  rotate: false
+  xy: 1184, 22
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/grey_arrowDownWhite
+  rotate: false
+  xy: 1311, 146
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/grey_arrowUpGrey
+  rotate: false
+  xy: 1328, 146
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/grey_arrowUpWhite
+  rotate: false
+  xy: 2287, 175
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ui/grey_box
+  rotate: false
+  xy: 1457, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/grey_boxCheckmark
+  rotate: false
+  xy: 1497, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/grey_boxCross
+  rotate: false
+  xy: 1537, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/grey_boxTick
+  rotate: false
+  xy: 1813, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/grey_button00
+  rotate: false
+  xy: 962, 60
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button01
+  rotate: false
+  xy: 194, 52
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button02
+  rotate: false
+  xy: 1543, 209
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button03
+  rotate: false
+  xy: 386, 103
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button04
+  rotate: false
+  xy: 386, 5
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button05
+  rotate: false
+  xy: 2, 205
+  size: 195, 49
+  orig: 195, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button06
+  rotate: false
+  xy: 2, 154
+  size: 191, 49
+  orig: 191, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button07
+  rotate: false
+  xy: 3607, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button08
+  rotate: false
+  xy: 3607, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button09
+  rotate: false
+  xy: 2311, 177
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button10
+  rotate: false
+  xy: 3658, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button11
+  rotate: false
+  xy: 2362, 177
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button12
+  rotate: false
+  xy: 3658, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button13
+  rotate: false
+  xy: 2413, 177
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/grey_button14
+  rotate: false
+  xy: 579, 154
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/grey_button15
+  rotate: false
+  xy: 775, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/grey_checkmarkGrey
+  rotate: false
+  xy: 1207, 136
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/grey_checkmarkWhite
+  rotate: false
+  xy: 1184, 114
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/grey_circle
+  rotate: false
+  xy: 1851, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/grey_crossGrey
+  rotate: false
+  xy: 1207, 116
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/grey_crossWhite
+  rotate: false
+  xy: 1253, 138
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/grey_panel
+  rotate: false
+  xy: 3091, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/grey_sliderDown
+  rotate: false
+  xy: 4036, 118
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/grey_sliderEnd
+  rotate: false
+  xy: 1377, 159
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+ui/grey_sliderHorizontal
+  rotate: false
+  xy: 2311, 224
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+ui/grey_sliderLeft
+  rotate: false
+  xy: 2041, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/grey_sliderRight
+  rotate: false
+  xy: 2082, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/grey_sliderUp
+  rotate: false
+  xy: 4066, 80
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/grey_sliderVertical
+  rotate: false
+  xy: 3397, 154
+  size: 4, 100
+  orig: 4, 100
+  offset: 0, 0
+  index: -1
+ui/grey_tickGrey
+  rotate: false
+  xy: 1184, 53
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/grey_tickWhite
+  rotate: false
+  xy: 1227, 98
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/red_boxCheckmark
+  rotate: false
+  xy: 1577, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/red_boxCross
+  rotate: false
+  xy: 1617, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/red_boxTick
+  rotate: false
+  xy: 1889, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/red_button00
+  rotate: false
+  xy: 1735, 209
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/red_button01
+  rotate: false
+  xy: 386, 52
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/red_button02
+  rotate: false
+  xy: 578, 5
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/red_button03
+  rotate: false
+  xy: 3709, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/red_button04
+  rotate: false
+  xy: 3709, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/red_button05
+  rotate: false
+  xy: 2464, 177
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/red_button06
+  rotate: false
+  xy: 3760, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/red_button07
+  rotate: false
+  xy: 2515, 183
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/red_button08
+  rotate: false
+  xy: 3760, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/red_button09
+  rotate: false
+  xy: 2566, 183
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/red_button10
+  rotate: false
+  xy: 578, 103
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/red_button11
+  rotate: false
+  xy: 771, 154
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/red_button12
+  rotate: false
+  xy: 770, 9
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/red_button13
+  rotate: false
+  xy: 967, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/red_checkmark
+  rotate: false
+  xy: 1230, 136
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/red_circle
+  rotate: false
+  xy: 1927, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/red_cross
+  rotate: false
+  xy: 1184, 72
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/red_panel
+  rotate: false
+  xy: 3193, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/red_sliderDown
+  rotate: false
+  xy: 1347, 161
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/red_sliderLeft
+  rotate: false
+  xy: 2123, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/red_sliderRight
+  rotate: false
+  xy: 2164, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/red_sliderUp
+  rotate: false
+  xy: 1154, 110
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/red_tick
+  rotate: false
+  xy: 1292, 139
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ui/yellow_boxCheckmark
+  rotate: false
+  xy: 1657, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/yellow_boxCross
+  rotate: false
+  xy: 1697, 171
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+ui/yellow_boxTick
+  rotate: false
+  xy: 1965, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/yellow_button00
+  rotate: false
+  xy: 578, 52
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button01
+  rotate: false
+  xy: 962, 13
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button02
+  rotate: false
+  xy: 770, 103
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button03
+  rotate: false
+  xy: 1927, 209
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button04
+  rotate: false
+  xy: 963, 154
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button05
+  rotate: false
+  xy: 2119, 209
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button06
+  rotate: false
+  xy: 3811, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button07
+  rotate: false
+  xy: 3811, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button08
+  rotate: false
+  xy: 2617, 183
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button09
+  rotate: false
+  xy: 3862, 205
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button10
+  rotate: false
+  xy: 2668, 183
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button11
+  rotate: false
+  xy: 3862, 154
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_button12
+  rotate: false
+  xy: 2719, 183
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+ui/yellow_button13
+  rotate: false
+  xy: 1159, 205
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+ui/yellow_checkmark
+  rotate: false
+  xy: 1184, 92
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+ui/yellow_circle
+  rotate: false
+  xy: 2003, 171
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ui/yellow_cross
+  rotate: false
+  xy: 1207, 96
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ui/yellow_panel
+  rotate: false
+  xy: 3295, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ui/yellow_sliderDown
+  rotate: false
+  xy: 1154, 66
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/yellow_sliderLeft
+  rotate: false
+  xy: 2205, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/yellow_sliderRight
+  rotate: false
+  xy: 2246, 176
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ui/yellow_sliderUp
+  rotate: false
+  xy: 1154, 22
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+ui/yellow_tick
+  rotate: false
+  xy: 1184, 34
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
